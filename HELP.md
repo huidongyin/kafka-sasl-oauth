@@ -104,7 +104,7 @@ sequenceDiagram
 
 ### 代码实现
 
-- xxx todo:github link 
+https://github.com/huidongyin/kafka-sasl-oauth.git
 
 ---
 
