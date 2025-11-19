@@ -106,6 +106,10 @@ sequenceDiagram
 
 https://github.com/huidongyin/kafka-sasl-oauth.git
 
+### 更多细节
+
+https://www.yuque.com/yinhuidong/kafka/bugm5yghdfu7u2ka
+
 ---
 
 ## 从SASL_PLAIN切换到SASL_OAUTHBEARER
